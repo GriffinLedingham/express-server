@@ -1,6 +1,6 @@
 /**
 * Language files present in language_config.js will be bound
-* globally, accessable like so: ""
+* globally, accessable like so: "general_Lang.serverStarted"
 **/
 var config = require('../config/language_config')
 
